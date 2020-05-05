@@ -2,11 +2,14 @@
 
 A demonstration of theming Angular applications using **_CSS Custom Properties_**.
 
-Read the description of the technique in the article: [Theming Angular](https://medium.com/@tomsu/theming-angular-c869827738c3).
+Read the description of the technique in the article:  
+- [Theming Angular](https://medium.com/@tomsu/heming-angular-c869827738c3)
+- [ Theming reference ](https://ng.ant.design/blog/custom-theme/)
 
 ## Demo
 [ Live Demo ](https://angular-themes.netlify.app/)  
-![](https://miro.medium.com/max/1100/1*w9L2wymEUfkSLM_P7ezKqw.gif)
+![](https://miro.medium.com/max/1100/1*w9L2wymEUfkSLM_P7ezKqw.gif)  
+[ CSS support browser ](https://caniuse.com/#feat=css-variables)  
 
 #### License
 
